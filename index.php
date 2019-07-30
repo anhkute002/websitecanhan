@@ -4,7 +4,7 @@
  </head>
  <body>
      <h2>Xin chao Ha Tuan Anh</h2>
-             <a href="https://www.facebook.com/"/>
+     <a href="https://www.facebook.com/">Profile</a>
  <?php echo '<p>Hello World </p>'; 
     putenv("DATABASE_URL=fred");
     echo getenv("DATABASE_URL")
