@@ -3,8 +3,9 @@
   <title>PHP Test</title>
  </head>
  <body>
-     <h1>Xin chao cloud Computing<h1>
- <?php echo '<p>Hello World from Netbeans</p>'; 
+     <h2>Xin chao Ha Tuan Anh</h2>
+             <a href="https://www.facebook.com/"/>
+ <?php echo '<p>Hello World </p>'; 
     putenv("DATABASE_URL=fred");
     echo getenv("DATABASE_URL")
  ?> 
